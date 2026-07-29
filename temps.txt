@@ -1,0 +1,8 @@
+nvme0n1 PRE  temperature				: 24 C (297 Kelvin)
+nvme1n1 PRE  temperature				: 24 C (297 Kelvin)
+nvme2n1 PRE  temperature				: 36 C (309 Kelvin)
+nvme3n1 PRE  temperature				: 35 C (308 Kelvin)
+nvme0n1 POST temperature				: 32 C (305 Kelvin)
+nvme2n1 POST temperature				: 42 C (315 Kelvin)
+nvme1n1 POST temperature				: 31 C (304 Kelvin)
+nvme3n1 POST temperature				: 41 C (314 Kelvin)
